@@ -23,7 +23,11 @@ Computing concept | matrix size
 Storage (words) | n<sup>2</sup> + n (matrix and right-hand-side) 
 Operations | n<sup>3</sup>/3 + n<sup>2</sup> (elimination and back substitution)
 
-The size of a problem we want to solve may be restricted to limitations in memory (i.e., the memory available on a computer is insufficient to store all of the needed information) or by time (i.e., the time needed to perform all operation is excessive). Consider the solution of a linear system of equations on a smartphone with 2 Gbytes RAM (1 Gbyte = 1024<sup>3</sup> bytes of memory and assume that our word size is 64-bit “double precision”), and a reasonably well-written code that performs at 50 MFLOPS on your smartphone (1 MFLOP = 10<sup>6</sup> floating-point operations per second).
+The size of a problem we want to solve may be restricted to limitations in memory (i.e., the memory available on a computer is insufficient to store all of the needed information) or by time (i.e., the time needed to perform all operation is excessive). Consider the solution of a linear system of equations on a smartphone with:
+
+ * 2 Gbytes RAM (1 Gbyte = 1024<sup>3</sup> bytes of memory)
+ * 64-bit “double precision” word size
+ * reasonably well-written code that performs at 50 DP MFLOPS (1 MFLOP = 10<sup>6</sup> floating-point operations per second).
 
 ## Problem 1:<a name="3"></a>
 
