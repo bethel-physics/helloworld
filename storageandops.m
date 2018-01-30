@@ -22,7 +22,7 @@ clear all; help storageandops;
 % linear system of equations on a smartphone with 2 Gbytes RAM (1 Gbyte = 
 % 1024^3 bytes of memory and assume that our word size is 64-bit “double 
 % precision”), and a reasonably well-written code that performs at 50 
-% MFLOPS on your smartphone (1 MFLOP = 10^6 floating-point operations 
+% DP MFLOPS on your smartphone (1 MFLOP = 10^6 floating-point operations 
 % per second).
   
 %% Problem 1:
