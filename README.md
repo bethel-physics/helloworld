@@ -39,7 +39,7 @@ What is the largest problem you could solve on your smartphone at the last minut
 
 ## Problem 3:<a name="5"></a>
 
-How long it would take to repeat the Gauss elimination calculation from Problem 2 if you were to repeat it on the ENIAC (330 flops)?
+How long it would take to repeat the Gauss elimination calculation from Problem 2 if you were to repeat it on the ENIAC (330 single-precision flops)?
 
 [Published with MATLAB® R2014b](http://www.mathworks.com/products/matlab/)  
 
