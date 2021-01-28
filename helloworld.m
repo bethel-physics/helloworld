@@ -6,3 +6,7 @@ word = 'Hello, world!';
 disp(word)
 disp('Say it again:')
 disp(word)
+
+newword = 'I made this commit with Github Desktop!';
+
+disp(newword)
