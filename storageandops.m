@@ -73,6 +73,6 @@ clear all; help storageandops;
 
 
 %% Tutorial 1 exercise: printing output
-% Plot the function described after 2.: Data Output
+% Plot the function described after 2.4: Data Output
 
 
