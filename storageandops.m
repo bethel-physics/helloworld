@@ -25,6 +25,7 @@ clear all; help storageandops;
 % double-precision MFLOPS on your smartphone (1 MFLOP = 10^6 floating-point 
 % operations per second).
 
+
   
 %% Memory limitations:
 % What is the largest linear algebra problem (i.e., what is n_max) we
