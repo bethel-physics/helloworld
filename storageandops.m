@@ -25,7 +25,6 @@ clear all; help storageandops;
 % double-precision MFLOPS on your smartphone (1 MFLOP = 10^6 floating-point 
 % operations per second).
 
-
   
 %% Memory limitations:
 % What is the largest linear algebra problem (i.e., what is n_max) we
@@ -34,17 +33,22 @@ clear all; help storageandops;
 % right-hand-side into memory (i.e., disregard the size of the rest
 % of the program, the memory needs for the operating system, etc.).
 
+% HINT HINT HINT: look up MATLAB's "roots" function
+
 
   
 %% Time limitations:
 % What is the largest problem you could solve on your smartphone at
 % the last minute (in 60 sec) with its 50 MFLOPS processing speed?
 
+% HINT HINT HINT: look up MATLAB's "roots" function
+
 
   
 %% Uphill both ways in the snow:
 % How long it would take to repeat the Gauss elimination calculation
 % from Problem 2 if you were to repeat it on the ENIAC (330 flops)?
+
 
 
 
@@ -68,12 +72,6 @@ clear all; help storageandops;
 
 
 
-%% Tutorial 1 exercise: user input
-% Plot the function described after 2.4: Data Input
-
-
-
 %% Tutorial 1 exercise: printing output
 % Plot the function described after 2.4: Data Output
-
 
