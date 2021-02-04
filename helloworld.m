@@ -12,4 +12,4 @@ newword = 'I made this commit with Github Desktop!';
 % disp wants a vector of things to print:
 disp([newword,' -- this is a neat tool'])
 
-% HELLO!
+secondword = "HELLO!";
